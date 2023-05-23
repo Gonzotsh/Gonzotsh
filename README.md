@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gonzalo Meneses</h1>
 <h3 align="center">Web/Videogame developer</h3>
 
-- I’m currently working on the videogame [Camae](https://store.steampowered.com/app/1922580/Camae/) and a couple of other things.
+- I’m currently working on [Camae](https://store.steampowered.com/app/1922580/Camae/) and a couple of other things.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
